@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Hello BASE version (master before branching)"
+echo "Hello from MASTER after branching ✨"
 echo "How old are you?"
 read age
 echo "Thanks Jessica! You are $age years old"
